@@ -24,26 +24,14 @@
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
-  <div class="section no-pad-bot" id="index-banner">
-    <div class="container">
-      <div class="col s12 m8 offset-m2 l6 offset-l3">
-        <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s2">
-              <img src="https://scratchtools.tk/isonline/isonline-logo.png" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s10">
-              <span class="black-text">
-                <h3>New isOnline Website!</h3>
-                The official link to install isOnline and to see update information is now here, at <a href='/'>isonline.cf</a>! If you currently have isonline.tk on your profile, change it to isonline.cf so more people can know about isOnline!
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
+
+<?php
+echo file_get_contents("newsdata"); // this code, though it may look bad, completes its purpose
+?>
+
+
 
     </div>
-<br><br><br><br><br><br><br><br><br><br><br><br>
     <footer class="page-footer orange">
       <div class="container">
         <div class="row">
