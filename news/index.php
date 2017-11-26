@@ -36,7 +36,7 @@ echo file_get_contents("newsdata");
         <div class="row">
           <div class="col l6 s12">
             <h5 class="white-text">isOnline</h5>
-            <p class="grey-text text-lighten-4">isOnline is a browser extension that tells you if your friends on <a class="orange-text text-lighten-3" href='https://scratch.mit.edu'>Scratch</a> are online or offline</p>
+            <p class="grey-text text-lighten-4">isOnline is a browser extension that tells you if your friends on <a class="red-text text-darken-1" href='https://scratch.mit.edu'>Scratch</a> are online or offline</p>
 
 
           </div>
@@ -62,7 +62,7 @@ echo file_get_contents("newsdata");
       </div>
       <div class="footer-copyright">
         <div class="container">
-        Theme by <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize</a>, site by <a class="orange-text text-lighten-3" href="https://scratch.mit.edu/users/DatOneLefty">DatOneLefty</a>. View this project on <a class="orange-text text-lighten-3" href="https://github.com/DatOneLefty/isonline.cf">GitHub</a>
+        Theme by <a class="red-text text-darken-1" href="http://materializecss.com">Materialize</a>, site by <a class="red-text text-darken-1" href="https://scratch.mit.edu/users/DatOneLefty">DatOneLefty</a>. View this project on <a class="red-text text-darken-1" href="https://github.com/DatOneLefty/isonline.cf">GitHub</a>
         </div>
       </div>
     </footer>
