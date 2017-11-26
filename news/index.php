@@ -10,7 +10,7 @@
   <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="light-blue lighten-1" role="navigation">
+  <nav class="lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="/" class="brand-logo">isOnline</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="/">Home</a></li>
@@ -31,7 +31,7 @@ echo file_get_contents("newsdata");
 
 
     </div>
-    <footer class="page-footer orange">
+    <footer class="page-footer">
       <div class="container">
         <div class="row">
           <div class="col l6 s12">
